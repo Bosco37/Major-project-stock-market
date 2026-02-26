@@ -1,10 +1,6 @@
 # Dependencies
 node_modules/
 
-# Environment variables (NEVER commit these - contains passwords!)
-.env
-*.env
-
 # Logs
 *.log
 npm-debug.log*
